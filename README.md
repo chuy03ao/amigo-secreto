@@ -25,8 +25,4 @@ Este es un juego simple de **"Amigo Secreto"** que permite a los usuarios agrega
 
 ---
 
-   Abre tu terminal y usa el siguiente comando para clonar este repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
 
