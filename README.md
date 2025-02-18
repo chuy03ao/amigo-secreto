@@ -1,8 +1,7 @@
-<h1 align="center">CHALLENGE AMIGO SECRETO 🎉</h1>
+<h1 align="center">🎉 CHALLENGE AMIGO SECRETO 🎉</h1>
 
 ![Captura de pantalla 2025-02-18 164957](https://github.com/user-attachments/assets/8d6cdffd-3197-4e40-b720-91c74327cc4f)
 
-# Amigo Secreto 🎉
 
 ## Descripción 🌟
 
@@ -25,10 +24,6 @@ Este es un juego simple de **"Amigo Secreto"** que permite a los usuarios agrega
 - **JavaScript:** Lógica para agregar amigos, actualizar la lista y realizar el sorteo.
 
 ---
-
-## Cómo Ejecutar el Proyecto 🚀
-
-1. **Clonar el repositorio:**
 
    Abre tu terminal y usa el siguiente comando para clonar este repositorio:
 
